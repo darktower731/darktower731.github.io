@@ -1,0 +1,39 @@
+body img {
+	height: 359px;
+	width: 216px;
+	position: absolute;
+	left: 600px;
+	margin: 50px 50px;
+}
+
+
+
+ul li {
+	float:left;
+	font-family: Verdana;
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow:hidden;
+	position:relative;
+	left:300px;
+	
+}
+
+
+ul li a:link, a:visited {
+    display: block;
+    width: 150px;
+    font-weight: bold;
+    color: #FFFFFF;
+    background-color: #19a3d1;
+    text-align: center;
+    padding: 6px;
+    text-transform: uppercase;
+    text-decoration:none;
+
+}
+
+ul li a:hover, a:active {
+    background-color: #1919ff;
+}
